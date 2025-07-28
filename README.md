@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Manya Jayakumar</h1>
+
 <img width="400" height="600"  align="center" alt="image" src="https://github.com/user-attachments/assets/ecf15400-b66a-45d3-93ed-250b3a4d440d" />
 
 

@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manya Jayakumar</h1>
 
-<img width="400" height="600"  align="center" alt="image" src="https://github.com/user-attachments/assets/ecf15400-b66a-45d3-93ed-250b3a4d440d" />
+<img width="400" height="600"  align="center"  alt="image" src="https://github.com/user-attachments/assets/ecf15400-b66a-45d3-93ed-250b3a4d440d" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manyajayakumarr&label=Profile%20views&color=0e75b6&style=flat" alt="manyajayakumarr" /> </p>
 
 - 🌱 I’m currently learning **Java, JavaScript, etc**
 

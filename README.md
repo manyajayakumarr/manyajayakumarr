@@ -1,20 +1,46 @@
-<h1 align="center">Hi 👋, I'm Manya Jayakumar</h1>
+<!-- ======================= HEADER ======================= -->
 
-<img width="400" height="600"  align="center"  alt="image" src="https://github.com/user-attachments/assets/ecf15400-b66a-45d3-93ed-250b3a4d440d" />
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Manya%20Jayakumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<h2>👋 Hi, I'm Manya!</h2>
 
-- 🌱 I’m currently learning **Java, JavaScript, etc**
+<h3>💻 Computer Science Student • Developer • Tech Enthusiast</h3>
 
-- 📫 How to reach me **manyajayakumar4444@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <i>Building ideas into meaningful digital experiences 🚀</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manyajayakumarr&show_icons=true&locale=en&layout=compact" alt="manyajayakumarr" /></p>
+<a href="https://github.com/manyajayakumarr">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manyajayakumarr&show_icons=true&locale=en" alt="manyajayakumarr" /></p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🌟 About Me
+
+```text
+Hi there! 👋
+
+I'm Manya Jayakumar, a third-year Computer Science student
+who loves turning ideas into real-world applications.
+
+💻 Passionate about software development
+🧠 Curious about how technology works
+🚀 Love building projects and learning by doing
+🌱 Currently improving my development & problem-solving skills
+🎯 Working towards becoming a skilled software engineer
+✨ Always excited to learn something new

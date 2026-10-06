@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm **Manya**, a 3rd-year Computer Science student at **Mannar College**.
+Hi! I'm **Manya**, a 3rd-year Computer Science student at **Maland College of Engineering**.
 
 I'm passionate about programming, problem-solving, and building projects that
 help me turn what I learn into practical solutions.

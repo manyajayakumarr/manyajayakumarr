@@ -1,46 +1,75 @@
-<!-- ======================= HEADER ======================= -->
+## 👋 About Me
 
-<div align="center">
+Hi! I'm **Manya**, a 3rd-year Computer Science student at **Mannar College**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Manya%20Jayakumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+I'm passionate about programming, problem-solving, and building projects that
+help me turn what I learn into practical solutions.
 
-<h2>👋 Hi, I'm Manya!</h2>
+### 💻 Technical Skills
 
-<h3>💻 Computer Science Student • Developer • Tech Enthusiast</h3>
+#### Programming Languages
 
 <p>
-  <i>Building ideas into meaningful digital experiences 🚀</i>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://skillicons.dev/icons?i=c" width="45" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" width="45" />
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="45" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="45" />
+  </a>
 </p>
 
-<br>
+#### Web Technologies
 
-<a href="https://github.com/manyajayakumarr">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="45" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="45" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  </a>
+</p>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+#### Tools & Technologies
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+  </a>
+</p>
 
 ---
 
-# 🌟 About Me
+### 🌱 Currently Learning
 
-```text
-Hi there! 👋
+I'm currently focusing on strengthening my **core Computer Science concepts**:
 
-I'm Manya Jayakumar, a third-year Computer Science student
-who loves turning ideas into real-world applications.
+- 📚 Data Structures & Algorithms
+- 🧩 Object-Oriented Programming
+- 🗄️ Database Management Systems
+- 🌐 Computer Networks
+- ⚙️ Operating Systems
+- 🧠 Problem Solving & Logical Thinking
 
-💻 Passionate about software development
-🧠 Curious about how technology works
-🚀 Love building projects and learning by doing
-🌱 Currently improving my development & problem-solving skills
-🎯 Working towards becoming a skilled software engineer
-✨ Always excited to learn something new
+---
+
+### 🎯 My Goal
+
+> To continuously improve my technical skills, build meaningful projects,
+> and grow into a skilled software developer.
+
+**Learn • Build • Improve • Grow 🚀**
